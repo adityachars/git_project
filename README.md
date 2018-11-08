@@ -1,2 +1,2 @@
 # git_project
-my frist git project
+my first git project
